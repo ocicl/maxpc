@@ -1,0 +1,10 @@
+* maxpc
+
+Max’s Parser Combinators: a simple and pragmatic library for writing parsers and lexers based on combinatory parsing.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/eugeneia/maxpc.git   |
+| commit  | e5e58d0  |
+| systems | maxpc |
+|---------+-------------------------------------------|
+
